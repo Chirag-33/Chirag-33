@@ -1,5 +1,5 @@
 # Hey there, I'm Chirag Mali! 👋
-I'm a passionate Python developer focused on creating innovative solutions in Computer Vision, Automation, and Web Development. Check out my [WebFolio](https://aashnajoshi.github.io/) to learn more about my work. I'm eager to explore new technologies, collaborate on impactful projects, and connect with others in the tech community. Let's build something amazing together! 😊
+Full-stack Python/Django developer with a commerce background, skilled in building scalable, data-driven apps using REST APIs, JavaScript, and AWS. Experienced in integrating Stripe, OAuth, and leveraging tools like Pandas, NumPy, and Selenium for secure, user-focused solutions. I'm eager to explore new technologies, collaborate on impactful projects, and connect with others in the tech community. Let's build something amazing together! 😊
 
 ## Skills
 - **Programming Languages**: <a href="https://github.com/search?q=user%3AChirag-33+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
