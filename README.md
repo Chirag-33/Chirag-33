@@ -21,11 +21,11 @@ Full-stack Python/Django developer with a commerce background, skilled in buildi
 - **Tools**: <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
 
 ## Projects
-🎥 **[VidStream](https://github.com/aashnajoshi/VidStream)**: A Django-based video streaming app that lets users sign up, upload, and watch videos with a sleek video gallery and secure authentication. Built with **Python**, **PostgreSQL**, **HTML**, **CSS**, and **Bootstrap**, deployed on **Heroku**. This project highlights my skills in web development and database integration.
+ **[Nexus Find](https://github.com/Chirag-33/NexusFind)**: A Django-based E-commerce that lets users sign up, upload, and buy products and secure authentication. Built with **Python**, **PostgreSQL**, **HTML**, **CSS**, and **Bootstrap**. This project highlights my skills in web development and database integration.
 
-🌸 **[Flower-Recognizer](https://github.com/aashnajoshi/Flower-Recognizer)**: A Deep Learning model that classifies flower images (e.g., Rose, Sunflower, Tulip) with real-time image upload and classification capabilities. Developed using **Python**, **TensorFlow**, and **NumPy**. This project showcases my passion for Computer Vision and machine learning.
+ **[ShopSage](https://github.com/Chirag-33/shopsage)**:A selenium project which finds the product for u and save its data and than compare it using MatplotLib . Build using **Selenium**, **NumPy**, **Pandas** and **MatPlotLib**
 
-🎵 **[MoodBeats](https://github.com/aashnajoshi/MoodBeats)**: A creative Music Recommendation system that detects user emotions via webcam in real-time and plays matching YouTube songs from curated CSV playlists (e.g., Happy, Sad). Developed using **Python**, **TensorFlow**, and **NumPy**, with **AWS** for cloud processing. This project showcases my passion for Computer Vision and cloud solutions.
+ **[HealthCare](https://github.com/Chirag-33/HealthCare)**:A Django Rest Framework based small project in which you can see the details of Doctor and patients and you can also see the mapping about which doctor is assigned to which Patient 
 
 [View all projects ➺](https://github.com/Chirag-33?tab=repositories)
 
